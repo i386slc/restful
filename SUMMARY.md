@@ -7,7 +7,7 @@
 * [Построение Python RESTful веб-сервисов](buliding-restful-python-web-services/postroenie-python-restful-veb-servisov/README.md)
   * [Общее описание](buliding-restful-python-web-services/postroenie-python-restful-veb-servisov/obshee-opisanie.md)
   * [Предисловие](buliding-restful-python-web-services/postroenie-python-restful-veb-servisov/predislovie.md)
-  * [Глава 1. Разработка RESTful API с Django](buliding-restful-python-web-services/postroenie-python-restful-veb-servisov/glava-1.-razrabotka-restful-api-s-django/README.md)
+  * [Глава 1. Разработка RESTful API с Django](buliding-restful-python-web-services/postroenie-python-restful-veb-servisov/razrabotka-restful-api-s-django.md)
     * [Разработка RESTful API для взаимодействия с простой базой данных SQLite](buliding-restful-python-web-services/postroenie-python-restful-veb-servisov/glava-1.-razrabotka-restful-api-s-django/razrabotka-restful-api-dlya-vzaimodeistviya-s-prostoi-bazoi-dannykh-sqlite.md)
   * [Глава 2. Работа с представлениями на основе классов и API с гиперссылками Django](buliding-restful-python-web-services/postroenie-python-restful-veb-servisov/rabota-s-predstavleniyami-na-osnove-klassov-i-api-s-giperssylkami-django.md)
   * [Глава 3. Улучшения и добавление аутентификации в API с Django](buliding-restful-python-web-services/postroenie-python-restful-veb-servisov/uluchsheniya-i-dobavlenie-autentifikacii-v-api-s-django.md)
